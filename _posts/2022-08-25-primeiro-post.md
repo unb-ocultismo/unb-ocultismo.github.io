@@ -14,7 +14,9 @@ hehehe, vocês devem estar perguntando o que é isso aqui né?
 
 
 
-Primeiramente, não sei se repararam, mas eu usei os termos "somos" e "nossos" no subtitulo. O porquê disso é que no momento o clube está composto por uma pessoa que sou eu Rin(pseudonôme) de engenharia de computação, então cotinuarei a escrever em primeira pessoa. Poís bem, esse é um grupo que observa fênomenos fora do comum dentro da universidade. Não que eu acredita muito sobre coisas sobrenaturais, mas sempre há coisas estranhas ocorrendo e que é divertido investigar ou relatar. Por isso a ideia do Blog.
+Primeiramente, não sei se repararam, mas eu usei os termos "somos" e "nossos" no subtitulo. O porquê disso é que no momento o clube está composto por uma pessoa que sou eu Rin(pseudonôme) de engenharia de computação, então cotinuarei a escrever em primeira pessoa. 
+
+Poís bem, esse é um grupo que observa fênomenos fora do comum dentro da universidade. Não que eu acredita muito sobre coisas sobrenaturais, mas sempre há coisas estranhas ocorrendo e que é divertido investigar ou relatar. Por isso a ideia do Blog.
 
 Algo que gostaria deixar claro antes, esse Blog não é pra ser levado a sério e sim pra ser divertido. Eu imagino que deva ser legal reunir pessoas entediadas dentro da UnB e sem muitos amigos para um rolê mais fora do comum(entrar em subsolos e corredores muito obscuros e depois ficar de onda). 
 
