@@ -20,6 +20,6 @@ Poís bem, esse é um grupo que observa fênomenos fora do comum dentro da unive
 
 Algo que gostaria deixar claro antes, esse Blog não é pra ser levado a sério e sim pra ser divertido. Eu imagino que deva ser legal reunir pessoas entediadas dentro da UnB e sem muitos amigos para um rolê mais fora do comum(entrar em subsolos e corredores muito obscuros e depois ficar de onda). 
 
-Terminando, eu gostaria de receber ideias sobre coisas misteriosas dentro da universidade para ter ideia do que investigar e escrever por aqui. Imagino que se o blog for ativo, em alguns anos terá tanta informação que mesmo seja fútil, é legal de saber. 
+Terminando, eu gostaria de receber ideias sobre coisas misteriosas dentro da universidade para ter ideia do que investigar e escrever por aqui(nosso email para contato está no canto inverior da página). Imagino que se o blog for ativo, em alguns anos terá tanta informação que mesmo seja fútil, é legal de saber. 
 
 Acho que isso é tudo o que eu gostaria de dizer. Até o próximo post!
