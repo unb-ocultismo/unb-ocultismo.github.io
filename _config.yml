@@ -20,7 +20,7 @@ author: Rin chan
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Sobre nós: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -51,11 +51,11 @@ round-avatar: true
 social-network-links:
   email: "unb-ocultismo@protonmail.com"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+  #facebook: deanattali
   github: unb-ocultismo
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  #twitter: daattali
+  #patreon: DeanAttali
+  #youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
