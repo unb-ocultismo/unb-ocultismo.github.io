@@ -5,4 +5,5 @@
 
 > By [Rin chan]
 
-O **Clube de Ocultismo da UNB** é apenas um local para explorar e investigar as coisas estranhas que ocorrem na UnB
+O **Clube de Ocultismo da UNB** é apenas um local para explorar e investigar as coisas estranhas que ocorrem na UnB. 
+Caso você se sinta só e queira se divertir na universidade, será bem vindo ao clube.
