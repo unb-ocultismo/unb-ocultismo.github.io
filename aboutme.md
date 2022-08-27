@@ -4,5 +4,5 @@ title: Sobre nós
 subtitle: Um lugar para desvendar alguns mistérios
 ---
 
-Olá, aqui é a Rin, escreverei mais depois
+Somos um grupo que investiga as bizarrices dentro da UnB e relatamos.
 
