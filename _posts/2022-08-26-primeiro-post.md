@@ -5,7 +5,7 @@ subtitle: Quem somos e nossos objetivos?
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb1.png
 share-img: /assets/img/path.jpg
-#tags: [books, test]
+tags: [off-topic]
 ---
 
 hehehe, vcs devem estar perguntando o que é isso aqui né?
